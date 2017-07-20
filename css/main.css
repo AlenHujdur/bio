@@ -89,7 +89,13 @@ footer {
   padding: 5%;
   font-size: 0.75em;
 }
-
+.profile-photo1 {
+  align: center;
+  display: block;
+  max-width: 300px;
+  margin: 0 auto 30px;
+  border-radius: 2.5%;
+}
 .profile-photo {
   display: block;
   max-width: 300px;
